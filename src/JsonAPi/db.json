@@ -1,0 +1,22 @@
+{
+  "uyeler": [
+    {
+      "id": "1",
+      "bir": "Frontend Kitap Listesi",
+      "iki": "React",
+      "uc": "Angular"
+    },
+    {
+      "id": "2",
+      "bir": "Backend Kitap Listesi",
+      "iki": "Spring Boot",
+      "uc": "Asp.NET Core"
+    },
+    {
+      "id": "3",
+      "bir": "Siber Kitap Listesi",
+      "iki": "Siber1",
+      "uc": "Siber2"
+    }
+  ]
+}
